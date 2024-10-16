@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hotbot.com	TRUE	/	FALSE	1999999999	PHPSESSID	ipv0m78jrhv7lb9ofp48uc5sl7
+www.hotbot.com	TRUE	/	FALSE	1999999999	csrfst	bMelHXyI-1729100717-f00c981b3e4c7ee1
+www.hotbot.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hotbot.com	TRUE	/	FALSE	1999999999	temp_uuid	wjPSGBAo-1729100717-3776bfedf0558feb
+hotbot.com	TRUE	/	FALSE	1999999999	hbai_actor	80a5348f-b047-434d-9875-1f240ca5c269
+.hotbot.com	TRUE	/	FALSE	1999999999	abexp	send_btn-2
+www.hotbot.com	TRUE	/	FALSE	1999999999	HOTBOTSID	ded6183
+
